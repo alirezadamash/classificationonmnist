@@ -1,2 +1,1 @@
-# classificationonmnist
-Classification on MNIST
+# Classification on MNIST
